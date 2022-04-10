@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="hobbyokrojone.xslt"?>
+<hobby>
+  <title>Hobby</title>
+  <images>
+    <image source="img/logo.png"/>
+    <image source="img/logo2.png"/>
+  </images>
+  <ukuleles>
+    <brands>
+      <brand>Kala</brand>
+      <brand>Lanikai</brand>
+      <brand>Mahalo</brand>
+      <brand>Hola</brand>
+      <brand>Luna</brand>
+      <brand>Oscar Schmidt</brand>
+      <brand>ADM</brand>
+      <brand>Sawtooth</brand>
+    </brands>
+    <types>
+      <tenor>
+        <price currency="EUR">54.70</price>
+        <price currency="PLN">229.00</price>
+        <image source="img/tenorowe_mini.jpg"></image>
+      </tenor>
+      <soprano>
+        <price currency="EUR">30.10</price>
+        <price currency="PLN">129.00</price>
+        <image source="img/sopranowe_mini.jpg"></image>
+      </soprano>
+      <baritone>
+        <price currency="EUR">63.40</price>
+        <price currency="PLN">269.00</price>
+        <image source="img/barytonowe-mini.jpg"></image>
+      </baritone>
+      <concert>
+        <price currency="EUR">35.50</price>
+        <price currency="PLN">149.00</price>
+        <image source="img/koncertowe_mini.jpg"></image>
+      </concert>
+      <bas>
+        <price currency="EUR">67.50</price>
+        <price currency="PLN">270.00</price>
+        <image source="img/pozostałe_mini.jpg"></image>
+      </bas>
+    </types>
+  </ukuleles>
+  <musicians>
+    <musician lang="english" name="Twenty One Pilots">
+      <song difficult="false">
+          <title>Stressed Out</title>
+          <released>2015-04-28</released>
+          <live source="https://www.youtube.com/watch?v=YmemeE9vh7Y">Stressed Out acoustic nr 1</live>
+          <live source="https://www.youtube.com/watch?v=hBL005t15Kc">Stressed Out acoustic nr 2</live>
+      </song>
+    </musician>
+      <musician lang="english" name="Twenty One Pilots">
+      <song difficult="true">
+          <title>Polarize</title>
+          <released>2015-05-17</released>
+          <live source="https://www.youtube.com/watch?v=DqEylfwL7C8">Polarize acoustic</live>
+      </song>
+      </musician>
+        <musician lang="english" name="Twenty One Pilots">
+      <song difficult="true">
+          <title>We don't believe what's on tv</title>
+          <released>2015-05-17</released>
+          <live source="https://www.youtube.com/watch?v=UZoR-a0e5gU">WDBWOT acoustic</live>
+      </song>
+    </musician>
+    <musician lang="english" name="Jason Mraz">
+      <song difficult="true">
+          <title>I'm yours</title>
+          <released>2008-02-12</released>
+          <live source="https://www.youtube.com/watch?v=8YfIPJVNH5o">I'm yours acoustic nr 1</live>
+          <live source="https://www.youtube.com/watch?v=ktWQKuXhZSs">I'm yours acoustic nr 2</live>
+      </song>
+    </musician>
+    <musician lang="english" name="Portugal the Man">
+      <song>
+          <title>Feel it still</title>
+          <released>2017-03-06</released>
+          <live source="https://www.youtube.com/watch?v=GfJpurkl82M">Feel it still - ukulele tutorial</live>
+      </song>
+    </musician>
+    <musician lang="polish" name="Dawid Podsiadło">
+      <song difficult="4">
+          <title>Małomiasteczkowy</title>
+          <released>2018-06-06</released>
+          <live source="https://www.youtube.com/watch?v=mOZ9-jxjQJM">Małomiasteczkowy - ukulele tutorial</live>
+      </song>
+    </musician>
+  </musicians>
+  <history>
+    Text from the article:
+    <text>
+      Portuguese immigrants began coming to Hawai’i in 1878 to work the sugar cane fields. The first crew that arrived on the Ravenscrag brought with them two traditional Portuguese instruments: the braguinha and rajão. Manuel Nunes and some of his buddies (Augusto Dias and Jose do Espirito Santo), immigrants and instrument/cabinet builders, combined elements from the two instruments to create the machete, which would eventually become known as the taro patch fiddle – or ‘ukulele.
+      By 1886 the instrument came to be known as the taro patch fiddle and was popular even with the royalty. King David Kalakaua had accepted and was playing the taro patch fiddle. Isobel Strong writes: “He would occasionally pick up a ‘ukulele or a guitar and sing his favorite Hawaiian song, Sweet Lei-lei-hua.” It is said that the King’s chamberlain Edward Purvis who also played the instrument, had the nickname ‘ukulele (jumping flea) because of his antics. Since he was associated with the instrument, the Hawaiians began using the word ‘ukulele instead of taro patch fiddle.
+      Another theory about the origin of the name is that when the Portuguese began playing their machetes, their fingers looked like jumping fleas when they played.
+      Nunes began the first ‘ukulele company with his two sons around 1910. He called it M. Nunes and Sons. (Us Portuguese guys are pretty clever!)
+      The ‘ukulele’s popularity grew. Many people on the mainland had caught the bug, and the demand for ‘ukuleles was greater than Nunes could supply. Cue Samuel Kaiali’ili’i Kamaka. Kamaka began building ‘ukuleles as an apprentice to Nunes, but in 1916 he started his own business. His workshop was in his basement, where he would turn out a dozen ‘ukuleles a week and sell them for $5 a piece. Now run by Sam Jr., Kamaka Hawaii inc. is still building some of the world’s best ukuleles.
+      Along with Kamaka, other companies like Martin, Gibson, and National also jumped on board the ‘ukulele-making bandwagon in the early part of the century.
+      In the 40s, 50s, and 60s the demand for ‘ukuleles started to slow down. When the 70s came around, Kamaka was the only company still manufacturing ukuleles.
+      Now into the 21st century, the ‘ukulele is making a comeback. People are really starting to see the potential that the instrument has, lots of thanks to Jake Shimabukuro’s Gently Weeps Youtube video. Along with the new interest came new manufacturers: Kala, Lanikai, Kanile’a, Mya-Moe, and Koaloha, just to name a few.
+    </text>
+    <author>
+      <name>Brad</name>
+      <surname>Bordessa</surname>
+    </author>
+  </history>
+  <author>
+    <name>Github</name>
+    <surname>chlorin3</surname>
+  </author>
+</hobby>

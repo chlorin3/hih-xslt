@@ -1,0 +1,58 @@
+﻿html, body {
+    margin: 0;
+    background-color: #151414;
+    color: #ffd800;
+    font-family: 'Lucida Console', Monospace;
+    font-size: 18px;
+    height: 100%;
+}
+header {
+    background-color: #0c0c0c;
+    color: #ffd800;
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+#wrapper {
+    text-align: justify;
+    margin: 0 auto;
+    width: 1200px;
+}
+
+table {
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    border-collapse: collapse;
+    width: 950px;
+    font-size: 20px;
+}
+
+table, td, th {
+    border: 1px dashed;
+    text-align: center;
+    width:150px;
+}
+th{
+    padding: 20px;
+    width: 50px;
+}
+dt{
+    margin-top:150px;
+    margin-left: 150px;
+    font-size:22px;
+}
+p{
+    text-decoration: underline;
+}
+img{
+    width:150px;
+    height:150px;
+}
+footer {
+    font-weight:700;
+    padding:10px;
+    background-color: #0c0c0c;
+    color: #ffd800;
+    text-align: center;
+}
